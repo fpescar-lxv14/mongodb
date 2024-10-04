@@ -4,6 +4,6 @@ Esto es una guia para los alumnos de __Fundacion Pescar__ que realizan la capaci
 
 ## Herramientas
 
-* [MongoDB (Server)](https://www.mongodb.com/try/)
+* [MongoDB (Server)](https://www.mongodb.com/try/download/community)
 * [Studio 3T (IDE)](https://studio3t.com/es/download/)
 * [NoSQLBooster (IDE)](https://nosqlbooster.com/downloads)
