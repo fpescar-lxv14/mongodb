@@ -7,6 +7,7 @@ Estructura cuya finalidad es contener y organizar porciones de informacion para 
 * Jerarquicas
 * Orientadas a Objetos
 * Documentos
+* Grafos
 
 ### Relaciones
 
@@ -39,12 +40,17 @@ EL objetivo principal en este tipo de bases de datos es reducir lo maximo posibl
 * __DCL (Data Control Language)__
     * _GRANT:_ otorgar permisos
     * _REVOKE:_ quitar permisos
+
 [Estructura Ejemplo](sql_personajes.md)
-[Script SQL Ejemplo](db_personajes.sql)
+[Script SQL Ejemplo](db.example.sql)
 
 ### NO Relacionales (NoSQL)
 
-A diferencia de las bases de datos SQL, no suelen tener un estandar, es decir, que en ocasiones puede dificultarse la migracion de datos de un motor a otro, debido a que no funcionan de la misma manera.
+* Cassandra
+* Redis
+* MongoDB
+
+A diferencia de las bases de datos SQL, no suelen tener un estandar, _no comparten lenguaje_, ni siquiera una sintaxis similar y puede dificultarse la migracion de datos de un motor a otro.
 
 MongoDB es un motor de bases de datos orientado a documentos y si lo comparamos con el esquema relacional podriamos inferir lo siguiente:
 
@@ -55,8 +61,7 @@ MongoDB es un motor de bases de datos orientado a documentos y si lo comparamos 
 | Campos | Claves |
 | Datos | Valores |
 
-PUERTOS 1024 - 49151
-Conexion
+* Conexion
 ```sh
 # local = PROTO://HOST:PORT/DATABASE
 mongosh mongodb://localhost:27017/fpescar
@@ -65,4 +70,4 @@ mongosh mongo+srv://user:password@host/database
 
 ```
 
-[Estructura Ejemplo](mongo_personajes.md)
+[Estructura Ejemplo](db.example.json)

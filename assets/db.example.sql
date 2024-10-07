@@ -1,9 +1,10 @@
 /* DDL (Data Definition Language)*/
-# Creacion de la Base de datos
+-- Creacion de la Base de datos
 DROP DATABASE IF EXISTS personajes;
 CREATE DATABASE personajes;
 USE personajes;
-# Creacion de Tablas
+
+-- Creacion de Tablas
 CREATE TABLE colores(
 	id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(20),
@@ -25,6 +26,7 @@ CREATE TABLE personajes(
 );
 
 /* DML (Data Manipulation Languales)*/
+-- Insercion de Registros
 INSERT INTO colores(nombre) VALUES
 	('blanco'),
 	('rojo'),
@@ -37,7 +39,6 @@ INSERT INTO colores(nombre) VALUES
 	('fucsia'),
 	('negro'),
 	('marron');
-
 INSERT INTO especies(nombre) VALUES
 	('humano'),
 	('primate'),
@@ -55,10 +56,10 @@ INSERT INTO personajes(nombre, id_especie, id_color) VALUES
 ('clifford',3,2),
 ('garfield',4,3);
 
-# Consulta Estandar
+-- Consulta Estandar
 SELECT * FROM personajes;
 
-# Consulta con Uniones
+-- Consultas de Union
 SELECT
 	p.id,
     p.nombre AS personaje,
@@ -69,7 +70,7 @@ FROM personajes AS p
 JOIN colores AS c ON c.id = p.id_color
 JOIN especies AS e ON e.id = p.id_especie;
 
-# Colores sin Personaje Asignado
+-- Colores sin Personaje Asignado
 SELECT 
 	c.nombre AS color
 FROM colores AS c
