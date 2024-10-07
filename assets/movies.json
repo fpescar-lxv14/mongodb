@@ -1,0 +1,496 @@
+[
+    {
+        "name": "Inception",
+        "year": 2010,
+        "genres": [
+            "ciencia ficcion",
+            "acción",
+            "suspenso"
+        ],
+        "description": "Un ladrón que roba secretos corporativos a través de los sueños es ofrecido una oportunidad para borrar su pasado criminal.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:28hs",
+                "player": 8880000
+            },
+            "director": "Christopher Nolan",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español",
+                    "francés"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español",
+                    "francés"
+                ]
+            },
+            "audio": "Dolby Atmos",
+            "casting": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt",
+                "Elliot Page",
+                "Tom Hardy"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 150,
+            "price": 400.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "The Godfather",
+        "year": 1972,
+        "genres": [
+            "drama",
+            "crimen"
+        ],
+        "description": "La historia de la familia mafiosa Corleone en Nueva York y su patriarca Vito Corleone.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:55hs",
+                "player": 10530000
+            },
+            "director": "Francis Ford Coppola",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "italiano"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Stereo",
+            "casting": [
+                "Marlon Brando",
+                "Al Pacino",
+                "James Caan",
+                "Diane Keaton"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 50,
+            "price": 500.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "The Shining",
+        "year": 1980,
+        "genres": [
+            "terror",
+            "suspenso",
+            "drama"
+        ],
+        "description": "Un escritor y su familia se mudan a un hotel aislado, donde fuerzas sobrenaturales influyen en su salud mental.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:26hs",
+                "player": 8760000
+            },
+            "director": "Stanley Kubrick",
+            "country": "Reino Unido",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Jack Nicholson",
+                "Shelley Duvall",
+                "Danny Lloyd"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 75,
+            "price": 350.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "Finding Nemo",
+        "year": 2003,
+        "genres": [
+            "animación",
+            "aventura",
+            "familia"
+        ],
+        "description": "La historia de un pez payaso que viaja por el océano para encontrar a su hijo que ha sido capturado.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "1:40hs",
+                "player": 6000000
+            },
+            "director": "Andrew Stanton",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español",
+                    "francés"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Stereo",
+            "casting": [
+                "Albert Brooks",
+                "Ellen DeGeneres",
+                "Alexander Gould"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 250.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "Pulp Fiction",
+        "year": 1994,
+        "genres": [
+            "acción",
+            "crimen",
+            "drama"
+        ],
+        "description": "La intersección de las vidas de dos asesinos a sueldo, un boxeador y la esposa de un gánster en Los Ángeles.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:34hs",
+                "player": 9240000
+            },
+            "director": "Quentin Tarantino",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "John Travolta",
+                "Uma Thurman",
+                "Samuel L. Jackson",
+                "Harvey Keitel"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 80,
+            "price": 400.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "Terminator",
+        "year": 1984,
+        "genres": [
+            "ciencia ficcion",
+            "acción",
+            "thriller"
+        ],
+        "description": "Un cyborg enviado desde el futuro llega a la década de 1980 para asesinar a la madre del líder de la resistencia humana.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "1:47hs",
+                "player": 6420000
+            },
+            "director": "James Cameron",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Arnold Schwarzenegger",
+                "Linda Hamilton",
+                "Michael Biehn"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 300.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "Aliens",
+        "year": 1986,
+        "genres": [
+            "ciencia ficcion",
+            "acción",
+            "suspenso"
+        ],
+        "description": "Ellen Ripley regresa al planeta donde ocurrió el primer ataque alienígena, junto a un grupo de marines espaciales.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:17hs",
+                "player": 8190000
+            },
+            "director": "James Cameron",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Sigourney Weaver",
+                "Carrie Henn",
+                "Michael Biehn"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 80,
+            "price": 350.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "Batman",
+        "year": 1989,
+        "genres": [
+            "acción",
+            "aventura",
+            "suspenso"
+        ],
+        "description": "El caballero oscuro de Gotham City lucha contra el crimen y se enfrenta a su archienemigo, el Joker.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:06hs",
+                "player": 7560000
+            },
+            "director": "Tim Burton",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Michael Keaton",
+                "Jack Nicholson",
+                "Kim Basinger"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 90,
+            "price": 400.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "Jurassic Park",
+        "year": 1993,
+        "genres": [
+            "ciencia ficcion",
+            "aventura",
+            "acción"
+        ],
+        "description": "Un parque temático donde los dinosaurios han sido clonados se convierte en un escenario de terror cuando los animales escapan.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:07hs",
+                "player": 7620000
+            },
+            "director": "Steven Spielberg",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Dolby Surround",
+            "casting": [
+                "Sam Neill",
+                "Laura Dern",
+                "Jeff Goldblum"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 120,
+            "price": 350.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "name": "The Matrix",
+        "year": 1999,
+        "genres": [
+            "ciencia ficcion",
+            "acción",
+            "suspenso"
+        ],
+        "description": "Un hacker descubre la verdad sobre la realidad y su papel en la guerra contra las máquinas.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:16hs",
+                "player": 8160000
+            },
+            "director": "The Wachowskis",
+            "country": "EEUU",
+            "languages": {
+                "audio": [
+                    "inglés",
+                    "español"
+                ],
+                "subtitles": [
+                    "inglés",
+                    "español"
+                ]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Keanu Reeves",
+                "Laurence Fishburne",
+                "Carrie-Anne Moss"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 110,
+            "price": 400.00,
+            "type": [
+                "venta",
+                "alquiler"
+            ]
+        }
+    }
+]
