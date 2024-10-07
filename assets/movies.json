@@ -492,5 +492,273 @@
                 "alquiler"
             ]
         }
+    },
+    
+    {
+        "name": "star wars",
+        "year": "1977",
+        "genres": ["ciencia ficción", "aventura", "fantasía"],
+        "descripcion": "Un joven granjero se une a un grupo de rebeldes para luchar contra el Imperio Galáctico y rescatar a la Princesa Leia.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:01hs",
+                "player": 7260000
+            },
+            "director": "george lucas",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["español", "inglés", "francés"],
+                "subtitles": ["español", "inglés", "francés"]
+            },
+            "audio": "dolby 5.1",
+            "casting": [
+                "Mark Hamill",
+                "Harrison Ford",
+                "Carrie Fisher",
+                "Alec Guinness",
+                "Peter Cushing",
+                "Anthony Daniels",
+                "James Earl Jones"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 200,
+            "price": 400.00,
+            "type": ["venta", "alquiler"]
+        }
+    },
+    {
+        "name": "predator",
+        "year": "1987",
+        "genres": ["acción", "ciencia ficción", "terror"],
+        "descripcion": "Un grupo de fuerzas especiales es cazado por un extraterrestre en la selva de Centroamérica.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "1:47hs",
+                "player": 6420000
+            },
+            "director": "John McTiernan",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["español", "inglés"],
+                "subtitles": ["español", "inglés"]
+            },
+            "audio": "dolby 5.1",
+            "casting": [
+                "Arnold Schwarzenegger",
+                "Carl Weathers",
+                "Elpidia Carrillo",
+                "Bill Duke",
+                "Jesse Ventura",
+                "Sonny Landham"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 150,
+            "price": 250.00,
+            "type": ["venta", "alquiler"]
+        }
+    },
+    {
+        "name": "avp: alien vs. predator",
+        "year": "2004",
+        "genres": ["acción", "suspenso", "ciencia ficción"],
+        "descripcion": "Un grupo de científicos descubre una antigua pirámide en la Antártida, donde se desata una batalla entre Aliens y Predators.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "1:41hs",
+                "player": 6060000
+            },
+            "director": "Paul W.S. Anderson",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["español", "inglés"],
+                "subtitles": ["español", "inglés"]
+            },
+            "audio": "dolby 5.1",
+            "casting": [
+                "Sanaa Lathan",
+                "Lance Henriksen",
+                "Raoul Bova",
+                "Ewen Bremner",
+                "Colin Salmon"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 80,
+            "price": 300.00,
+            "type": ["venta", "alquiler"]
+        }
+    },
+    {
+        "name": "prey",
+        "year": "2022",
+        "genres": ["acción", "suspenso", "ciencia ficción"],
+        "descripcion": "En 1719, una joven comanche se enfrenta a un Predator que ha llegado a su tierra en busca de caza.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "1:39hs",
+                "player": 5940000
+            },
+            "director": "Dan Trachtenberg",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["inglés", "comanche"],
+                "subtitles": ["español", "inglés"]
+            },
+            "audio": "dolby 5.1",
+            "casting": [
+                "Amber Midthunder",
+                "Dakota Beavers",
+                "Dan Stevens",
+                "Michelle Thrush"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 120,
+            "price": 250.00,
+            "type": ["venta", "alquiler"]
+        }
+    },
+    {
+        "name": "the thing",
+        "year": "1982",
+        "genres": ["terror", "suspenso", "ciencia ficción"],
+        "descripcion": "Un grupo de científicos en la Antártida se enfrenta a un ser que puede imitar cualquier forma de vida.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "1:49hs",
+                "player": 6540000
+            },
+            "director": "John Carpenter",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["español", "inglés"],
+                "subtitles": ["español", "inglés"]
+            },
+            "audio": "dolby 5.1",
+            "casting": [
+                "Kurt Russell",
+                "Wilford Brimley",
+                "Keith David",
+                "Richard Masur",
+                "David Clennon"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 90,
+            "price": 300.00,
+            "type": ["venta", "alquiler"]
+        }
+    },
+    {
+        "name": "the omen",
+        "year": "1976",
+        "genres": ["terror", "suspenso"],
+        "descripcion": "Un diplomático adopta a un niño que es la encarnación del Anticristo, lo que desata una serie de eventos aterradores.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "1:50hs",
+                "player": 6600000
+            },
+            "director": "Richard Donner",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["español", "inglés"],
+                "subtitles": ["español", "inglés"]
+            },
+            "audio": "dolby 5.1",
+            "casting": [
+                "Gregory Peck",
+                "Lee Remick",
+                "Harvey Stephens",
+                "David Warner",
+                "Billie Whitelaw"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 70,
+            "price": 200.00,
+            "type": ["venta", "alquiler"]
+        }
+    },
+    {
+        "name": "the exorcist",
+        "year": "1973",
+        "genres": ["terror", "drama"],
+        "descripcion": "Una madre busca la ayuda de un sacerdote para exorcizar a su hija, quien ha sido poseída por un demonio.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "2:02hs",
+                "player": 7320000
+            },
+            "director": "William Friedkin",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["español", "inglés"],
+                "subtitles": ["español", "inglés"]
+            },
+            "audio": "dolby 5.1",
+            "casting": [
+                "Ellen Burstyn",
+                "Max von Sydow",
+                "Linda Blair",
+                "Jason Miller"
+            ],
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 60,
+            "price": 250.00,
+            "type": ["venta", "alquiler"]
+        }
     }
 ]
