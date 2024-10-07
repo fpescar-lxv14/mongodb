@@ -1,0 +1,40 @@
+{
+    "name": "alien",
+    "year": "1979",
+    "genres": ["ciencia ficcion", "suspenso", "terror"],
+    "descripcion": "La tripulación de la nave espacial Nostromo atiende una señal de auxilio y, sin saberlo, sube a bordo una letal forma de vida extraterrestre.",
+    "images": {
+        "thumbnail": "",
+        "medium": "",
+        "large": "",
+        "poster": ""
+    },
+    "info": {
+        "duration": { 
+            "time": "1:57hs",
+            "player": 7020000
+        },
+        "director": "ridley scott",
+        "country": "EEUU",
+        "languages": {
+            "audio": ["español", "ingles", "portugues", "frances"],
+            "subtitles": ["español", "ingles", "portugues", "frances"]
+        },
+        "audio": "dolby 5.0",
+        "casting": [ 
+            "Sigourney Weaver", 
+            "Tom Skerritt", 
+            "Veronica Cartwright", 
+            "John Hurt", 
+            "Ian Holm", 
+            "Harry Dean Stanton", 
+            "Bolaji Badejo" 
+        ],
+        "soundtrack": []
+    },
+    "rent": {
+        "stock": 100,
+        "price": 300.00,
+        "type": ["venta", "alquiler"]
+    }
+}
