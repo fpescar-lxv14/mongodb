@@ -2,6 +2,12 @@
 
 Instruccion que indica que podemos agregar nuevos registros o documentos a las tablas/colecciones de nuestra base de datos. Asignamos los valores correspondientes al momento de isnertar los datos.
 
+| comando | descripcion |
+|--|--|
+| __.insertOne(`{Object}`)__ | agrega un registro a la coleccion de documentos |
+| __.insertMany(`[ObjectArray]`)__ | agrega multiples registros a la coleccion |
+| __.upsert(`{filter}`,`{Object}`)__ | actualiza o agrega un nuevo documento |
+
 * __MySQL__:
     ```sql
     -- insercion simple
@@ -35,6 +41,12 @@ Instruccion que indica que podemos agregar nuevos registros o documentos a las t
 
 Instruccion que permite realizar busquedas dentro de las tablas/colecciones a partir de un criterio, ya sea un valor exacto o por una operacion de aproximacion.
 
+| comando | descripcion |
+|--|--|
+| __.find()__| muestra todos los documentos de la coleccion |
+| __.find(`{filter}`)__ | muestra todos los objetos coincidentes |
+| __.findOne(`{filter}`)__ | muestra el primer objeto que coincida con los criterios de busqueda |
+
 * __MySQL__:
     ```sql
     SELECT * FROM products WHERE name = "teclado"
@@ -45,9 +57,16 @@ Instruccion que permite realizar busquedas dentro de las tablas/colecciones a pa
     db.products.findOne({ name: "teclado" })
     db.products.findMany({ stock: { $lt: 100 } })
     ```
+    
 ## UPDATE
 
 Instruccion que permite modificar los valores almacenados en uno o mas registros/documentos dada una condicion de busqueda. En caso de no coincidir, la actualizacion no modificara ningun dato.
+
+| comando | descripcion |
+|--|--|
+| __.updateOne(`{filter}`, `{Object}`)__ | actualiza el primer elemento que coincida con los criterios del filtro |
+| __.updateMany(`{filter}`,`{Object}`)__ | actualiza todos los objetos que cumplan los requisitos del filtro |
+| __.replaceOne(`{filter}`,`{object}`)__ | reemplaza un documento de la coleccion por otro objeto |
 
 * __MySQL__:
     ```sql
@@ -73,6 +92,11 @@ Instruccion que permite modificar los valores almacenados en uno o mas registros
 ## DELETE
 
 Instruccion que permite eliminar registros/documentos de una tabla/coleccion. Al igual que las actualizaciones requiere que utilicemos un criterio para realizar dicha operacion.
+
+| comando | descripcion |
+|--|--|
+| __.deleteOne(`{filter}`)__ | elimina el primer elemento que coincida con los criterios del filtro |
+| __.deleteMany(`{filter}`)__ | elimina todos los documentos que coincidan los criterios de eliminacion |
 
 * __MySQL__:
     ```sql
