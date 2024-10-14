@@ -1,0 +1,386 @@
+[
+    {
+        "title": "Law and Order: SVU",
+        "year": 1999,
+        "type": "series",
+        "genres": ["drama", "policíaca", "crimen"],
+        "description": "Los detectives de la unidad de víctimas especiales investigan delitos sexuales.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "43 mins",
+                "player": 2580000
+            },
+            "director": "Dick Wolf",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["inglés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Mariska Hargitay",
+                "Kelli Giddish",
+                "Ice-T"
+            ],
+            "seasons": 25,
+            "episodes": 550,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 200,
+            "price": 150.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Loki",
+        "year": 2021,
+        "type": "series",
+        "genres": ["acción", "aventura", "fantasía"],
+        "description": "El dios de las travesuras Loki se enfrenta a una nueva realidad tras los eventos de 'Avengers: Endgame'.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "50 mins",
+                "player": 3000000
+            },
+            "director": "Kate Herron",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["inglés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Atmos",
+            "casting": [
+                "Tom Hiddleston",
+                "Owen Wilson",
+                "Gugu Mbatha-Raw"
+            ],
+            "seasons": 1,
+            "episodes": 6,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 150,
+            "price": 200.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "JoJo's Bizarre Adventure",
+        "year": 2012,
+        "type": "series",
+        "genres": ["acción", "fantasía", "shonen"],
+        "description": "La saga de la familia Joestar, que enfrenta enemigos a través de generaciones con habilidades sobrenaturales.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "24 mins",
+                "player": 1440000
+            },
+            "director": "Naokatsu Tsuda",
+            "country": "Japón",
+            "languages": {
+                "audio": ["japonés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [],
+            "seasons": 5,
+            "episodes": 130,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 100.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Breaking Bad",
+        "year": 2008,
+        "type": "series",
+        "genres": ["drama", "crimen", "thriller"],
+        "description": "Un profesor de química se convierte en fabricante de metanfetaminas tras ser diagnosticado con cáncer.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "47 mins",
+                "player": 2820000
+            },
+            "director": "Vince Gilligan",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["inglés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Bryan Cranston",
+                "Aaron Paul",
+                "Anna Gunn"
+            ],
+            "seasons": 5,
+            "episodes": 62,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 150,
+            "price": 250.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Better Call Saul",
+        "year": 2015,
+        "type": "series",
+        "genres": ["drama", "crimen"],
+        "description": "La historia de cómo Jimmy McGill se convierte en el abogado Saul Goodman.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "46 mins",
+                "player": 2760000
+            },
+            "director": "Vince Gilligan, Peter Gould",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["inglés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Bob Odenkirk",
+                "Jonathan Banks",
+                "Rhea Seehorn"
+            ],
+            "seasons": 6,
+            "episodes": 63,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 150,
+            "price": 200.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Dragon Ball",
+        "year": 1986,
+        "type": "series",
+        "genres": ["acción", "aventura", "fantasía"],
+        "description": "Las aventuras de Goku y sus amigos en la búsqueda de las Esferas del Dragón.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "24 mins",
+                "player": 1440000
+            },
+            "director": "Daisuke Nishio",
+            "country": "Japón",
+            "languages": {
+                "audio": ["japonés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [],
+            "seasons": 5,
+            "episodes": 153,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 200,
+            "price": 50.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Dark",
+        "year": 2017,
+        "type": "series",
+        "genres": ["suspenso", "ciencia ficción", "drama"],
+        "description": "Un misterio que abarca varias generaciones en un pequeño pueblo alemán.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "50 mins",
+                "player": 3000000
+            },
+            "director": "Baran bo Odar",
+            "country": "Alemania",
+            "languages": {
+                "audio": ["alemán", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Olivia Götz",
+                "Andreas Pietschmann",
+                "Louis Hofmann"
+            ],
+            "seasons": 3,
+            "episodes": 26,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 150,
+            "price": 200.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Outlander",
+        "year": 2014,
+        "type": "series",
+        "genres": ["drama", "romance", "aventura"],
+        "description": "Una enfermera de la Segunda Guerra Mundial viaja en el tiempo a la Escocia del siglo XVIII.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "60 mins",
+                "player": 3600000
+            },
+            "director": "Ronald D. Moore",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["inglés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Caitriona Balfe",
+                "Sam Heughan",
+               
+
+ "Tobias Menzies"
+            ],
+            "seasons": 6,
+            "episodes": 76,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 180.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "The Mandalorian",
+        "year": 2019,
+        "type": "series",
+        "genres": ["acción", "aventura", "fantasía"],
+        "description": "Un cazarrecompensas solitario navega por los confines de la galaxia en la era posterior al Imperio.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "30 mins",
+                "player": 1800000
+            },
+            "director": "Jon Favreau",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["inglés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Pedro Pascal",
+                "Gina Carano",
+                "Carl Weathers"
+            ],
+            "seasons": 2,
+            "episodes": 16,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 150,
+            "price": 200.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Stranger Things",
+        "year": 2016,
+        "type": "series",
+        "genres": ["ciencia ficción", "terror", "drama"],
+        "description": "Un grupo de amigos se enfrenta a eventos sobrenaturales en su pequeña ciudad.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "duration": {
+                "time": "50 mins",
+                "player": 3000000
+            },
+            "director": "The Duffer Brothers",
+            "country": "EEUU",
+            "languages": {
+                "audio": ["inglés", "español"],
+                "subtitles": ["inglés", "español"]
+            },
+            "audio": "Dolby Digital",
+            "casting": [
+                "Winona Ryder",
+                "David Harbour",
+                "Finn Wolfhard"
+            ],
+            "seasons": 4,
+            "episodes": 34,
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 200,
+            "price": 200.00,
+            "type": ["alquiler"]
+        }
+    }
+]

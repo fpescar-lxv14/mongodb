@@ -1,0 +1,155 @@
+[
+    {
+        "title": "Martín Fierro",
+        "year": 1872,
+        "type": "libro",
+        "genres": ["poesía épica", "literatura argentina"],
+        "description": "Una obra emblemática de la literatura argentina que narra la vida de un gaucho en la pampa.",
+        "info": {
+            "author": "José Hernández",
+            "publisher": "Varios",
+            "language": "español"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "El caballero de la armadura oxidada",
+        "year": 1987,
+        "type": "libro",
+        "genres": ["autoayuda", "literatura infantil"],
+        "description": "Una fábula sobre el autodescubrimiento y la superación personal.",
+        "info": {
+            "author": "Robert Fisher",
+            "publisher": "Varios",
+            "language": "español"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Ni el tiro del final",
+        "year": 2009,
+        "type": "libro",
+        "genres": ["novela", "literatura argentina"],
+        "description": "Una novela que explora la vida en las calles de Buenos Aires.",
+        "info": {
+            "author": "Julián López",
+            "publisher": "Anagrama",
+            "language": "español"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Crónicas marcianas",
+        "year": 1950,
+        "type": "libro",
+        "genres": ["ciencia ficción", "literatura estadounidense"],
+        "description": "Una colección de relatos sobre la colonización de Marte.",
+        "info": {
+            "author": "Ray Bradbury",
+            "publisher": "Doubleday",
+            "language": "inglés"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "El resplandor",
+        "year": 1977,
+        "type": "libro",
+        "genres": ["terror", "literatura estadounidense"],
+        "description": "Una novela de terror psicológico sobre un escritor y su familia atrapados en un hotel.",
+        "info": {
+            "author": "Stephen King",
+            "publisher": "Doubleday",
+            "language": "inglés"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "It",
+        "year": 1986,
+        "type": "libro",
+        "genres": ["terror", "literatura estadounidense"],
+        "description": "Una novela sobre un grupo de niños que enfrentan a un ser maligno que toma la forma de un payaso.",
+        "info": {
+            "author": "Stephen King",
+            "publisher": "Viking Penguin",
+            "language": "inglés"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "La cosa",
+        "year": 1938,
+        "type": "libro",
+        "genres": ["ciencia ficción", "literatura estadounidense"],
+        "description": "Una novela sobre una criatura extraterrestre en la Antártida.",
+        "info": {
+            "author": "John W. Campbell Jr.",
+            "publisher": "Astounding Science Fiction",
+            "language": "inglés"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "El Quijote de la Mancha",
+        "year": 1605,
+        "type": "libro",
+        "genres": ["novela", "literatura española"],
+        "description": "La famosa novela de Miguel de Cervantes que narra las aventuras de un hidalgo.",
+        "info": {
+            "author": "Miguel de Cervantes",
+            "publisher": "Varios",
+            "language": "español"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    },
+    {
+        "title": "Rebelión en la granja",
+        "year": 1945,
+        "type": "libro",
+        "genres": ["sátira", "literatura inglesa"],
+        "description": "Una alegoría política sobre la revolución y el totalitarismo.",
+        "info": {
+            "author": "George Orwell",
+            "publisher": "Secker and Warburg",
+            "language": "inglés"
+        },
+        "rent": {
+            "stock": 100,
+            "price": 10.00,
+            "type": ["alquiler"]
+        }
+    }
+]

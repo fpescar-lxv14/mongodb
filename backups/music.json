@@ -1,0 +1,370 @@
+[
+    {
+        "title": "Blood Sugar Sex Magik",
+        "year": 1991,
+        "type": "album",
+        "genres": [
+            "rock",
+            "funk rock"
+        ],
+        "description": "Un álbum icónico de los Red Hot Chili Peppers que mezcla rock y funk.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Red Hot Chili Peppers",
+            "label": "Warner Bros. Records",
+            "duration": {
+                "time": "73 mins",
+                "player": 4380000
+            },
+            "tracks": 17,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Rick Rubin",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "Wasting Light",
+        "year": 2011,
+        "type": "album",
+        "genres": [
+            "rock",
+            "alternative rock"
+        ],
+        "description": "Un álbum de estudio de los Foo Fighters, grabado en su totalidad en cinta analógica.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Foo Fighters",
+            "label": "RCA Records",
+            "duration": {
+                "time": "47 mins",
+                "player": 2820000
+            },
+            "tracks": 11,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Butch Vig",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "Nevermind",
+        "year": 1991,
+        "type": "album",
+        "genres": [
+            "grunge",
+            "rock"
+        ],
+        "description": "El álbum que catapultó a Nirvana al estrellato, con himnos como 'Smells Like Teen Spirit'.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Nirvana",
+            "label": "DGC Records",
+            "duration": {
+                "time": "42 mins",
+                "player": 2520000
+            },
+            "tracks": 12,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Butch Vig",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "Rust in Peace",
+        "year": 1990,
+        "type": "album",
+        "genres": [
+            "thrash metal"
+        ],
+        "description": "Un álbum de culto de Megadeth, conocido por su virtuosismo musical y letras profundas.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Megadeth",
+            "label": "Capitol Records",
+            "duration": {
+                "time": "40 mins",
+                "player": 2400000
+            },
+            "tracks": 9,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Mike Clink",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "Master of Puppets",
+        "year": 1986,
+        "type": "album",
+        "genres": [
+            "heavy metal",
+            "thrash metal"
+        ],
+        "description": "Considerado uno de los mejores álbumes de Metallica, con temas como 'Enter Sandman'.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Metallica",
+            "label": "Elektra Records",
+            "duration": {
+                "time": "54 mins",
+                "player": 3240000
+            },
+            "tracks": 8,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Flemming Rasmussen",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "The Number of the Beast",
+        "year": 1982,
+        "type": "album",
+        "genres": [
+            "heavy metal"
+        ],
+        "description": "Un álbum fundamental de Iron Maiden que definió el sonido del metal en los años 80.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Iron Maiden",
+            "label": "EMI Records",
+            "duration": {
+                "time": "40 mins",
+                "player": 2400000
+            },
+            "tracks": 8,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Martin Birch",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "Paranoid",
+        "year": 1970,
+        "type": "album",
+        "genres": [
+            "heavy metal",
+            "rock"
+        ],
+        "description": "Un álbum icónico de Black Sabbath que ayudó a definir el sonido del heavy metal.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Black Sabbath",
+            "label": "Vertigo Records",
+            "duration": {
+                "time": "42 mins",
+                "player": 2520000
+            },
+            "tracks": 8,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Rodger Bain",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "Back in Black",
+        "year": 1980,
+        "type": "album",
+        "genres": [
+            "rock",
+            "hard rock"
+        ],
+        "description": "Uno de los álbumes más vendidos de AC/DC, con el famoso tema del mismo nombre.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "AC/DC",
+            "label": "Atlantic Records",
+            "duration": {
+                "time": "42 mins",
+                "player": 2520000
+            },
+            "tracks": 10,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Robert John \"Mutt\" Lange",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "Songs for the Deaf",
+        "year": 2002,
+        "type": "album",
+        "genres": [
+            "rock",
+            "stoner rock"
+        ],
+        "description": "Un álbum innovador de Queens of the Stone Age que incorpora elementos de rock alternativo y psicodélico.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Queens of the Stone Age",
+            "label": "Interscope Records",
+            "duration": {
+                "time": "48 mins",
+                "player": 2880000
+            },
+            "tracks": 14,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Josh Homme, Adam Kasper",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    },
+    {
+        "title": "Deep Purple in Rock",
+        "year": 1970,
+        "type": "album",
+        "genres": [
+            "rock",
+            "hard rock"
+        ],
+        "description": "Un álbum fundamental que ayudó a establecer el sonido de Deep Purple en la historia del rock.",
+        "images": {
+            "thumbnail": "",
+            "medium": "",
+            "large": "",
+            "poster": ""
+        },
+        "info": {
+            "artist": "Deep Purple",
+            "label": "Harvest Records",
+            "duration": {
+                "time": "40 mins",
+                "player": 2400000
+            },
+            "tracks": 7,
+            "languages": [
+                "inglés"
+            ],
+            "producer": "Deep Purple, Nick Simper",
+            "soundtrack": []
+        },
+        "rent": {
+            "stock": 100,
+            "price": 15.00,
+            "type": [
+                "alquiler"
+            ]
+        }
+    }
+]
