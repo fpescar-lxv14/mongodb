@@ -51,3 +51,37 @@ db.media.aggregate([
         as: "userData"
     }}
 ])
+// Estadisticas de precios
+db.media.aggregate([
+    { $group: {
+        _id: "$type", // por tipo de elemento
+        economico: { $min: "$rent.price" }, // minimo
+        promedio: { $avg: "$rent.price" }, // promedio
+        costoso: { $max: "$rent.price" }, // maximo
+    } }
+])
+// Desglose de categorias
+db.media.aggregate([    
+    { $unwind: { path: "$genres" } },
+    { $group: {
+        _id: "$genres",
+        count: { $sum: 1 },
+        barato: { $min: "$rent.price" },
+        promedio: { $avg: "$rent.price" },
+        caro: { $max: "$rent.price" }
+    } }
+])
+// Agrupacion por tipo y genero
+db.media.aggregate([    
+    { $unwind: { path: "$genres" } },
+    { $group: {
+        _id: {
+            type: "$type",
+            genre: "$genres"
+        },
+        count: { $sum: 1 },
+        barato: { $min: "$rent.price" },
+        promedio: { $avg: "$rent.price" },
+        caro: { $max: "$rent.price" }
+    } }
+])
