@@ -1,9 +1,9 @@
 [
     {
-        "title": "Law and Order: SVU",
+        "name": "Law and Order: SVU",
         "year": 1999,
         "type": "series",
-        "genres": ["drama", "policíaca", "crimen"],
+        "genres": ["drama", "policial", "crimen"],
         "description": "Los detectives de la unidad de víctimas especiales investigan delitos sexuales.",
         "images": {
             "thumbnail": "",
@@ -39,7 +39,7 @@
         }
     },
     {
-        "title": "Loki",
+        "name": "Loki",
         "year": 2021,
         "type": "series",
         "genres": ["acción", "aventura", "fantasía"],
@@ -78,7 +78,7 @@
         }
     },
     {
-        "title": "JoJo's Bizarre Adventure",
+        "name": "JoJo's Bizarre Adventure",
         "year": 2012,
         "type": "series",
         "genres": ["acción", "fantasía", "shonen"],
@@ -113,7 +113,7 @@
         }
     },
     {
-        "title": "Breaking Bad",
+        "name": "Breaking Bad",
         "year": 2008,
         "type": "series",
         "genres": ["drama", "crimen", "thriller"],
@@ -152,7 +152,7 @@
         }
     },
     {
-        "title": "Better Call Saul",
+        "name": "Better Call Saul",
         "year": 2015,
         "type": "series",
         "genres": ["drama", "crimen"],
@@ -191,7 +191,7 @@
         }
     },
     {
-        "title": "Dragon Ball",
+        "name": "Dragon Ball",
         "year": 1986,
         "type": "series",
         "genres": ["acción", "aventura", "fantasía"],
@@ -226,7 +226,7 @@
         }
     },
     {
-        "title": "Dark",
+        "name": "Dark",
         "year": 2017,
         "type": "series",
         "genres": ["suspenso", "ciencia ficción", "drama"],
@@ -265,7 +265,7 @@
         }
     },
     {
-        "title": "Outlander",
+        "name": "Outlander",
         "year": 2014,
         "type": "series",
         "genres": ["drama", "romance", "aventura"],
@@ -306,7 +306,7 @@
         }
     },
     {
-        "title": "The Mandalorian",
+        "name": "The Mandalorian",
         "year": 2019,
         "type": "series",
         "genres": ["acción", "aventura", "fantasía"],
@@ -345,7 +345,7 @@
         }
     },
     {
-        "title": "Stranger Things",
+        "name": "Stranger Things",
         "year": 2016,
         "type": "series",
         "genres": ["ciencia ficción", "terror", "drama"],

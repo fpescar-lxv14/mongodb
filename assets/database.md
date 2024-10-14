@@ -48,13 +48,13 @@ EL objetivo principal en este tipo de bases de datos es reducir lo maximo posibl
 
 * Cassandra
 * Redis
-* MongoDB
+* mongoDB
 
 A diferencia de las bases de datos SQL, no suelen tener un estandar, _no comparten lenguaje_, ni siquiera una sintaxis similar y puede dificultarse la migracion de datos de un motor a otro.
 
-MongoDB es un motor de bases de datos orientado a documentos y si lo comparamos con el esquema relacional podriamos inferir lo siguiente:
+mongoDB es un motor de bases de datos orientado a documentos y si lo comparamos con el esquema relacional podriamos inferir lo siguiente:
 
-| SQL | MongoDB |
+| SQL | mongoDB |
 |-|-|
 | Tablas | Colleccion |
 | Registros | Documento |

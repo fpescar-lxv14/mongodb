@@ -1,6 +1,6 @@
 [
     {
-        "title": "Blood Sugar Sex Magik",
+        "name": "Blood Sugar Sex Magik",
         "year": 1991,
         "type": "album",
         "genres": [
@@ -37,7 +37,7 @@
         }
     },
     {
-        "title": "Wasting Light",
+        "name": "Wasting Light",
         "year": 2011,
         "type": "album",
         "genres": [
@@ -74,7 +74,7 @@
         }
     },
     {
-        "title": "Nevermind",
+        "name": "Nevermind",
         "year": 1991,
         "type": "album",
         "genres": [
@@ -111,7 +111,7 @@
         }
     },
     {
-        "title": "Rust in Peace",
+        "name": "Rust in Peace",
         "year": 1990,
         "type": "album",
         "genres": [
@@ -147,7 +147,7 @@
         }
     },
     {
-        "title": "Master of Puppets",
+        "name": "Master of Puppets",
         "year": 1986,
         "type": "album",
         "genres": [
@@ -184,7 +184,7 @@
         }
     },
     {
-        "title": "The Number of the Beast",
+        "name": "The Number of the Beast",
         "year": 1982,
         "type": "album",
         "genres": [
@@ -220,7 +220,7 @@
         }
     },
     {
-        "title": "Paranoid",
+        "name": "Paranoid",
         "year": 1970,
         "type": "album",
         "genres": [
@@ -257,7 +257,7 @@
         }
     },
     {
-        "title": "Back in Black",
+        "name": "Back in Black",
         "year": 1980,
         "type": "album",
         "genres": [
@@ -294,7 +294,7 @@
         }
     },
     {
-        "title": "Songs for the Deaf",
+        "name": "Songs for the Deaf",
         "year": 2002,
         "type": "album",
         "genres": [
@@ -331,7 +331,7 @@
         }
     },
     {
-        "title": "Deep Purple in Rock",
+        "name": "Deep Purple in Rock",
         "year": 1970,
         "type": "album",
         "genres": [

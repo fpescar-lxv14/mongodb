@@ -21,7 +21,7 @@ Instruccion que indica que podemos agregar nuevos registros o documentos a las t
     ('Mouse',5300.00,3500),
     ('Auriculares',29300,125);
     ```
-* __MongoDB__:
+* __mongoDB__:
     ```js
     // insercion simple
     db.products.insertOne({
@@ -52,7 +52,7 @@ Instruccion que permite realizar busquedas dentro de las tablas/colecciones a pa
     SELECT * FROM products WHERE name = "teclado"
     SELECT * FROM products WHERE stock < 100;
     ```
-* __MongoDB__:
+* __mongoDB__:
     ```js
     db.products.findOne({ name: "teclado" })
     db.products.findMany({ stock: { $lt: 100 } })
@@ -79,7 +79,7 @@ Instruccion que permite modificar los valores almacenados en uno o mas registros
     CHANGE stock quantity INT(11),
     MODIFY price INT(20)
     ```
-* __MongoDB__
+* __mongoDB__
     ```js
     // actualizacion individual
     db.products.updateOne(
@@ -107,7 +107,7 @@ Instruccion que permite eliminar registros/documentos de una tabla/coleccion. Al
     -- reinicio de registros
     TRUNCATE products;
     ```
-* __MongoDB__:
+* __mongoDB__:
     ```js
     db.products.deleteOne({ name:"auriculares" })
     db.products.deteleMany();
