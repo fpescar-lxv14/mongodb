@@ -1,6 +1,6 @@
 [
     {
-        "title": "Martín Fierro",
+        "name": "Martín Fierro",
         "year": 1872,
         "type": "libro",
         "genres": ["poesía épica", "literatura argentina"],
@@ -17,7 +17,7 @@
         }
     },
     {
-        "title": "El caballero de la armadura oxidada",
+        "name": "El caballero de la armadura oxidada",
         "year": 1987,
         "type": "libro",
         "genres": ["autoayuda", "literatura infantil"],
@@ -34,7 +34,7 @@
         }
     },
     {
-        "title": "Ni el tiro del final",
+        "name": "Ni el tiro del final",
         "year": 2009,
         "type": "libro",
         "genres": ["novela", "literatura argentina"],
@@ -51,7 +51,7 @@
         }
     },
     {
-        "title": "Crónicas marcianas",
+        "name": "Crónicas marcianas",
         "year": 1950,
         "type": "libro",
         "genres": ["ciencia ficción", "literatura estadounidense"],
@@ -68,7 +68,7 @@
         }
     },
     {
-        "title": "El resplandor",
+        "name": "El resplandor",
         "year": 1977,
         "type": "libro",
         "genres": ["terror", "literatura estadounidense"],
@@ -85,7 +85,7 @@
         }
     },
     {
-        "title": "It",
+        "name": "It",
         "year": 1986,
         "type": "libro",
         "genres": ["terror", "literatura estadounidense"],
@@ -102,7 +102,7 @@
         }
     },
     {
-        "title": "La cosa",
+        "name": "La cosa",
         "year": 1938,
         "type": "libro",
         "genres": ["ciencia ficción", "literatura estadounidense"],
@@ -119,7 +119,7 @@
         }
     },
     {
-        "title": "El Quijote de la Mancha",
+        "name": "El Quijote de la Mancha",
         "year": 1605,
         "type": "libro",
         "genres": ["novela", "literatura española"],
@@ -136,7 +136,7 @@
         }
     },
     {
-        "title": "Rebelión en la granja",
+        "name": "Rebelión en la granja",
         "year": 1945,
         "type": "libro",
         "genres": ["sátira", "literatura inglesa"],
