@@ -89,6 +89,7 @@ Instruccion que permite modificar los valores almacenados en uno o mas registros
     // actualizacion multiple
     db.products.updateMany({},{ $rename: { stock: "quantity" }})
     ```
+
 ## DELETE
 
 Instruccion que permite eliminar registros/documentos de una tabla/coleccion. Al igual que las actualizaciones requiere que utilicemos un criterio para realizar dicha operacion.
@@ -111,3 +112,5 @@ Instruccion que permite eliminar registros/documentos de una tabla/coleccion. Al
     db.products.deleteOne({ name:"auriculares" })
     db.products.deteleMany();
     ```
+
+[volver](../readme.md)

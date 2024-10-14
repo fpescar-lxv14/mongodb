@@ -11,4 +11,5 @@ Esto es una guia para los alumnos de __Fundacion Pescar__ que realizan la capaci
 ## Tabla de contenidos
 
 * [Base de datos](./assets/database.md)
-* [Operaciones CRUD](./assets/crud.md)
+* [Metodos CRUD](./assets/crud.md)
+* [Operadores](./assets/operators.md)
