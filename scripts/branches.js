@@ -4,9 +4,6 @@ db.createCollection("branches", {
             bsonType: "object",
             required: [
                 "name",
-                "address.street",
-                "address.number",
-                "address.zipcode",
                 "manager",
             ],
             properties: {
@@ -18,6 +15,7 @@ db.createCollection("branches", {
                 },
                 address: {
                     bsonType: "object",
+                    required: ["street", "number", "zipcode"],
                     properties: {
                         street: {
                             bsonType: "string",
@@ -68,6 +66,7 @@ db.createCollection("branches", {
                     bsonType: "array",
                     items: {
                         bsonType: "object",
+                        required: ["charge", "hiredAt", "status"],
                         properties: {
                             charge: {
                                 bsonType: "string",
@@ -155,4 +154,10 @@ db.createCollection("branches", {
             }
         }
     }
+});
+db.branches.createIndex({ name: 1 }, { unique: 1 });
+db.branches.createIndex({ 
+    "address.street": 1, 
+    "address.number": 1, 
+    "address.zipcode": 1
 });
