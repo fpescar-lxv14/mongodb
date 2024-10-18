@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Sucursal Cordoba",
+        "address": {
+            "street": "Calle San Martin",
+            "number": 100,
+            "zipcode": "5000",
+            "city": "Cordoba",
+            "state": "Cordoba",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -31.4201,
+                "longitude": -64.1888
+            }
+        },
+        "manager": "Laura Fernandez",
+        "employees": [
+            {
+                "charge": "Gerente",
+                "employeeData": {
+                    "first_name": "Javier",
+                    "last_name": "Alvarez",
+                    "birthdate": {
+                        "$date": "1982-02-12"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "123456789",
+                    "degree": "UNI"
+                },
+                "hiredAt": {
+                    "$date": "2017-03-15"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2017-03-15"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Salta",
+        "address": {
+            "street": "Avenida Sarmiento",
+            "number": 250,
+            "zipcode": "4400",
+            "city": "Salta",
+            "state": "Salta",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -24.7823,
+                "longitude": -65.4230
+            }
+        },
+        "manager": "Ricardo Perez",
+        "employees": [
+            {
+                "charge": "Vendedor",
+                "employeeData": {
+                    "first_name": "Ana",
+                    "last_name": "Jimenez",
+                    "birthdate": {
+                        "$date": "1990-06-18"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "987654321",
+                    "degree": "SEC"
+                },
+                "hiredAt": {
+                    "$date": "2019-07-10"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2019-07-10"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Corrientes",
+        "address": {
+            "street": "Calle 25 de Mayo",
+            "number": 500,
+            "zipcode": "3400",
+            "city": "Corrientes",
+            "state": "Corrientes",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -27.4805,
+                "longitude": -58.8348
+            }
+        },
+        "manager": "Valeria Gomez",
+        "employees": [
+            {
+                "charge": "Encargado",
+                "employeeData": {
+                    "first_name": "Santiago",
+                    "last_name": "Cruz",
+                    "birthdate": {
+                        "$date": "1985-10-22"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "54321678",
+                    "degree": "TER"
+                },
+                "hiredAt": {
+                    "$date": "2020-05-30"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2020-05-30",
+                            "end": null
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Misiones",
+        "address": {
+            "street": "Calle Belgrano",
+            "number": 40,
+            "zipcode": "3300",
+            "city": "Posadas",
+            "state": "Misiones",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -26.9534,
+                "longitude": -54.5764
+            }
+        },
+        "manager": "Claudio Martinez",
+        "employees": [
+            {
+                "charge": "Cajero",
+                "employeeData": {
+                    "first_name": "Florencia",
+                    "last_name": "Lopez",
+                    "birthdate": {
+                        "$date": "1993-04-12"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "32165487",
+                    "degree": "PRI"
+                },
+                "hiredAt": {
+                    "$date": "2021-01-15"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2021-01-15"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    }
+]
