@@ -1,0 +1,2306 @@
+[{
+  "_id": {
+    "$oid": "67042f65196b145b02c800a7"
+  },
+  "name": "alien",
+  "year": "1979",
+  "genres": [
+    "ciencia ficcion",
+    "suspenso",
+    "terror"
+  ],
+  "descripcion": "La tripulación de la nave espacial Nostromo atiende una señal de auxilio y, sin saberlo, sube a bordo una letal forma de vida extraterrestre.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "1:57hs",
+      "player": 7020000
+    },
+    "director": "ridley scott",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "español",
+        "ingles",
+        "portugues",
+        "frances"
+      ],
+      "subtitles": [
+        "español",
+        "ingles",
+        "portugues",
+        "frances"
+      ]
+    },
+    "audio": "dolby 5.0",
+    "casting": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "Veronica Cartwright",
+      "John Hurt",
+      "Ian Holm",
+      "Harry Dean Stanton",
+      "Bolaji Badejo"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 300,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800aa"
+  },
+  "name": "Inception",
+  "year": 2010,
+  "genres": [
+    "ciencia ficcion",
+    "acción",
+    "suspenso"
+  ],
+  "description": "Un ladrón que roba secretos corporativos a través de los sueños es ofrecido una oportunidad para borrar su pasado criminal.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:28hs",
+      "player": 8880000
+    },
+    "director": "Christopher Nolan",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español",
+        "francés"
+      ],
+      "subtitles": [
+        "inglés",
+        "español",
+        "francés"
+      ]
+    },
+    "audio": "Dolby Atmos",
+    "casting": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 150,
+    "price": 400,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800ab"
+  },
+  "name": "The Godfather",
+  "year": 1972,
+  "genres": [
+    "drama",
+    "crimen",
+    "mafia"
+  ],
+  "description": "La historia de la familia mafiosa Corleone en Nueva York y su patriarca Vito Corleone.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:55hs",
+      "player": 10530000
+    },
+    "director": "Francis Ford Coppola",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "italiano"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Stereo",
+    "casting": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Diane Keaton"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 70,
+    "price": 500,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800ac"
+  },
+  "name": "The Shining",
+  "year": 1980,
+  "genres": [
+    "terror",
+    "suspenso",
+    "drama"
+  ],
+  "description": "Un escritor y su familia se mudan a un hotel aislado, donde fuerzas sobrenaturales influyen en su salud mental.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:26hs",
+      "player": 8760000
+    },
+    "director": "Stanley Kubrick",
+    "country": "Reino Unido",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 75,
+    "price": 350,
+    "type": [
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800ad"
+  },
+  "name": "Finding Nemo",
+  "year": 2003,
+  "genres": [
+    "animación",
+    "aventura",
+    "familia"
+  ],
+  "description": "La historia de un pez payaso que viaja por el océano para encontrar a su hijo que ha sido capturado.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "1:40hs",
+      "player": 6000000
+    },
+    "director": "Andrew Stanton",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español",
+        "francés"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Stereo",
+    "casting": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 250,
+    "type": [
+      "venta",
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800ae"
+  },
+  "name": "Pulp Fiction",
+  "year": 1994,
+  "genres": [
+    "acción",
+    "crimen",
+    "drama"
+  ],
+  "description": "La intersección de las vidas de dos asesinos a sueldo, un boxeador y la esposa de un gánster en Los Ángeles.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:34hs",
+      "player": 9240000
+    },
+    "director": "Quentin Tarantino",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "Harvey Keitel"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 80,
+    "price": 400,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800af"
+  },
+  "name": "Terminator",
+  "year": 1984,
+  "genres": [
+    "ciencia ficcion",
+    "acción",
+    "thriller"
+  ],
+  "description": "Un cyborg enviado desde el futuro llega a la década de 1980 para asesinar a la madre del líder de la resistencia humana.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "1:47hs",
+      "player": 6420000
+    },
+    "director": "James Cameron",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 300,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b0"
+  },
+  "name": "Aliens",
+  "year": 1986,
+  "genres": [
+    "ciencia ficcion",
+    "acción",
+    "suspenso"
+  ],
+  "description": "Ellen Ripley regresa al planeta donde ocurrió el primer ataque alienígena, junto a un grupo de marines espaciales.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:17hs",
+      "player": 8190000
+    },
+    "director": "James Cameron",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Sigourney Weaver",
+      "Carrie Henn",
+      "Michael Biehn"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 80,
+    "price": 350,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b1"
+  },
+  "name": "Batman",
+  "year": 1989,
+  "genres": [
+    "acción",
+    "aventura",
+    "suspenso"
+  ],
+  "description": "El caballero oscuro de Gotham City lucha contra el crimen y se enfrenta a su archienemigo, el Joker.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:06hs",
+      "player": 7560000
+    },
+    "director": "Tim Burton",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Michael Keaton",
+      "Jack Nicholson",
+      "Kim Basinger"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 90,
+    "price": 400,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b2"
+  },
+  "name": "Jurassic Park",
+  "year": 1993,
+  "genres": [
+    "ciencia ficcion",
+    "aventura",
+    "acción"
+  ],
+  "description": "Un parque temático donde los dinosaurios han sido clonados se convierte en un escenario de terror cuando los animales escapan.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:07hs",
+      "player": 7620000
+    },
+    "director": "Steven Spielberg",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Surround",
+    "casting": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 120,
+    "price": 350,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b3"
+  },
+  "name": "The Matrix",
+  "year": 1999,
+  "genres": [
+    "ciencia ficcion",
+    "acción",
+    "suspenso"
+  ],
+  "description": "Un hacker descubre la verdad sobre la realidad y su papel en la guerra contra las máquinas.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:16hs",
+      "player": 8160000
+    },
+    "director": "The Wachowskis",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 110,
+    "price": 400,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b4"
+  },
+  "name": "star wars",
+  "year": "1977",
+  "genres": [
+    "ciencia ficción",
+    "aventura",
+    "fantasía"
+  ],
+  "descripcion": "Un joven granjero se une a un grupo de rebeldes para luchar contra el Imperio Galáctico y rescatar a la Princesa Leia.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:01hs",
+      "player": 7260000
+    },
+    "director": "george lucas",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "español",
+        "inglés",
+        "francés"
+      ],
+      "subtitles": [
+        "español",
+        "inglés",
+        "francés"
+      ]
+    },
+    "audio": "dolby 5.1",
+    "casting": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Alec Guinness",
+      "Peter Cushing",
+      "Anthony Daniels",
+      "James Earl Jones"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 200,
+    "price": 400,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b5"
+  },
+  "name": "predator",
+  "year": "1987",
+  "genres": [
+    "acción",
+    "ciencia ficción",
+    "terror"
+  ],
+  "descripcion": "Un grupo de fuerzas especiales es cazado por un extraterrestre en la selva de Centroamérica.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "1:47hs",
+      "player": 6420000
+    },
+    "director": "John McTiernan",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "español",
+        "inglés"
+      ],
+      "subtitles": [
+        "español",
+        "inglés"
+      ]
+    },
+    "audio": "dolby 5.1",
+    "casting": [
+      "Arnold Schwarzenegger",
+      "Carl Weathers",
+      "Elpidia Carrillo",
+      "Bill Duke",
+      "Jesse Ventura",
+      "Sonny Landham"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 150,
+    "price": 250,
+    "type": [
+      "venta",
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b6"
+  },
+  "name": "avp: alien vs. predator",
+  "year": "2004",
+  "genres": [
+    "acción",
+    "suspenso",
+    "ciencia ficción"
+  ],
+  "descripcion": "Un grupo de científicos descubre una antigua pirámide en la Antártida, donde se desata una batalla entre Aliens y Predators.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "1:41hs",
+      "player": 6060000
+    },
+    "director": "Paul W.S. Anderson",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "español",
+        "inglés"
+      ],
+      "subtitles": [
+        "español",
+        "inglés"
+      ]
+    },
+    "audio": "dolby 5.1",
+    "casting": [
+      "Sanaa Lathan",
+      "Lance Henriksen",
+      "Raoul Bova",
+      "Ewen Bremner",
+      "Colin Salmon"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 80,
+    "price": 300,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b7"
+  },
+  "name": "prey",
+  "year": "2022",
+  "genres": [
+    "acción",
+    "suspenso",
+    "ciencia ficción"
+  ],
+  "descripcion": "En 1719, una joven comanche se enfrenta a un Predator que ha llegado a su tierra en busca de caza.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "1:39hs",
+      "player": 5940000
+    },
+    "director": "Dan Trachtenberg",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "comanche"
+      ],
+      "subtitles": [
+        "español",
+        "inglés"
+      ]
+    },
+    "audio": "dolby 5.1",
+    "casting": [
+      "Amber Midthunder",
+      "Dakota Beavers",
+      "Dan Stevens",
+      "Michelle Thrush"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 120,
+    "price": 250,
+    "type": [
+      "venta",
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b8"
+  },
+  "name": "the thing",
+  "year": "1982",
+  "genres": [
+    "terror",
+    "suspenso",
+    "ciencia ficción"
+  ],
+  "descripcion": "Un grupo de científicos en la Antártida se enfrenta a un ser que puede imitar cualquier forma de vida.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "1:49hs",
+      "player": 6540000
+    },
+    "director": "John Carpenter",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "español",
+        "inglés"
+      ],
+      "subtitles": [
+        "español",
+        "inglés"
+      ]
+    },
+    "audio": "dolby 5.1",
+    "casting": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David",
+      "Richard Masur",
+      "David Clennon"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 90,
+    "price": 300,
+    "type": [
+      "venta",
+      "alquiler"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800b9"
+  },
+  "name": "the omen",
+  "year": "1976",
+  "genres": [
+    "terror",
+    "suspenso"
+  ],
+  "descripcion": "Un diplomático adopta a un niño que es la encarnación del Anticristo, lo que desata una serie de eventos aterradores.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "1:50hs",
+      "player": 6600000
+    },
+    "director": "Richard Donner",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "español",
+        "inglés"
+      ],
+      "subtitles": [
+        "español",
+        "inglés"
+      ]
+    },
+    "audio": "dolby 5.1",
+    "casting": [
+      "Gregory Peck",
+      "Lee Remick",
+      "Harvey Stephens",
+      "David Warner",
+      "Billie Whitelaw"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 70,
+    "price": 200,
+    "type": [
+      "venta",
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "67043793196b145b02c800ba"
+  },
+  "name": "the exorcist",
+  "year": "1973",
+  "genres": [
+    "terror",
+    "drama"
+  ],
+  "descripcion": "Una madre busca la ayuda de un sacerdote para exorcizar a su hija, quien ha sido poseída por un demonio.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "2:02hs",
+      "player": 7320000
+    },
+    "director": "William Friedkin",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "español",
+        "inglés"
+      ],
+      "subtitles": [
+        "español",
+        "inglés"
+      ]
+    },
+    "audio": "dolby 5.1",
+    "casting": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair",
+      "Jason Miller"
+    ],
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 80,
+    "price": 250,
+    "type": [
+      "venta",
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "type": "pelicula"
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961a8"
+  },
+  "name": "Law and Order: SVU",
+  "year": 1999,
+  "type": "series",
+  "genres": [
+    "drama",
+    "policial",
+    "crimen"
+  ],
+  "description": "Los detectives de la unidad de víctimas especiales investigan delitos sexuales.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "43 mins",
+      "player": 2580000
+    },
+    "director": "Dick Wolf",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Mariska Hargitay",
+      "Kelli Giddish",
+      "Ice-T"
+    ],
+    "seasons": 25,
+    "episodes": 550,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 200,
+    "price": 150,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961a9"
+  },
+  "name": "Loki",
+  "year": 2021,
+  "type": "series",
+  "genres": [
+    "acción",
+    "aventura",
+    "fantasía"
+  ],
+  "description": "El dios de las travesuras Loki se enfrenta a una nueva realidad tras los eventos de 'Avengers: Endgame'.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "50 mins",
+      "player": 3000000
+    },
+    "director": "Kate Herron",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Atmos",
+    "casting": [
+      "Tom Hiddleston",
+      "Owen Wilson",
+      "Gugu Mbatha-Raw"
+    ],
+    "seasons": 1,
+    "episodes": 6,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 150,
+    "price": 200,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961aa"
+  },
+  "name": "JoJo's Bizarre Adventure",
+  "year": 2012,
+  "type": "series",
+  "genres": [
+    "acción",
+    "fantasía",
+    "shonen"
+  ],
+  "description": "La saga de la familia Joestar, que enfrenta enemigos a través de generaciones con habilidades sobrenaturales.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "24 mins",
+      "player": 1440000
+    },
+    "director": "Naokatsu Tsuda",
+    "country": "Japón",
+    "languages": {
+      "audio": [
+        "japonés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [],
+    "seasons": 5,
+    "episodes": 130,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 100,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961ab"
+  },
+  "name": "Breaking Bad",
+  "year": 2008,
+  "type": "series",
+  "genres": [
+    "drama",
+    "crimen",
+    "thriller"
+  ],
+  "description": "Un profesor de química se convierte en fabricante de metanfetaminas tras ser diagnosticado con cáncer.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "47 mins",
+      "player": 2820000
+    },
+    "director": "Vince Gilligan",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn"
+    ],
+    "seasons": 5,
+    "episodes": 62,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 150,
+    "price": 250,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961ac"
+  },
+  "name": "Better Call Saul",
+  "year": 2015,
+  "type": "series",
+  "genres": [
+    "drama",
+    "crimen"
+  ],
+  "description": "La historia de cómo Jimmy McGill se convierte en el abogado Saul Goodman.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "46 mins",
+      "player": 2760000
+    },
+    "director": "Vince Gilligan, Peter Gould",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Bob Odenkirk",
+      "Jonathan Banks",
+      "Rhea Seehorn"
+    ],
+    "seasons": 6,
+    "episodes": 63,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 150,
+    "price": 200,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961ad"
+  },
+  "name": "Dragon Ball",
+  "year": 1986,
+  "type": "series",
+  "genres": [
+    "acción",
+    "aventura",
+    "fantasía"
+  ],
+  "description": "Las aventuras de Goku y sus amigos en la búsqueda de las Esferas del Dragón.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "24 mins",
+      "player": 1440000
+    },
+    "director": "Daisuke Nishio",
+    "country": "Japón",
+    "languages": {
+      "audio": [
+        "japonés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [],
+    "seasons": 5,
+    "episodes": 153,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 200,
+    "price": 50,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961ae"
+  },
+  "name": "Dark",
+  "year": 2017,
+  "type": "series",
+  "genres": [
+    "suspenso",
+    "ciencia ficción",
+    "drama"
+  ],
+  "description": "Un misterio que abarca varias generaciones en un pequeño pueblo alemán.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "50 mins",
+      "player": 3000000
+    },
+    "director": "Baran bo Odar",
+    "country": "Alemania",
+    "languages": {
+      "audio": [
+        "alemán",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Olivia Götz",
+      "Andreas Pietschmann",
+      "Louis Hofmann"
+    ],
+    "seasons": 3,
+    "episodes": 26,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 150,
+    "price": 200,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961af"
+  },
+  "name": "Outlander",
+  "year": 2014,
+  "type": "series",
+  "genres": [
+    "drama",
+    "romance",
+    "aventura"
+  ],
+  "description": "Una enfermera de la Segunda Guerra Mundial viaja en el tiempo a la Escocia del siglo XVIII.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "60 mins",
+      "player": 3600000
+    },
+    "director": "Ronald D. Moore",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Caitriona Balfe",
+      "Sam Heughan",
+      "Tobias Menzies"
+    ],
+    "seasons": 6,
+    "episodes": 76,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 180,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961b0"
+  },
+  "name": "The Mandalorian",
+  "year": 2019,
+  "type": "series",
+  "genres": [
+    "acción",
+    "aventura",
+    "fantasía"
+  ],
+  "description": "Un cazarrecompensas solitario navega por los confines de la galaxia en la era posterior al Imperio.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "30 mins",
+      "player": 1800000
+    },
+    "director": "Jon Favreau",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Pedro Pascal",
+      "Gina Carano",
+      "Carl Weathers"
+    ],
+    "seasons": 2,
+    "episodes": 16,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 150,
+    "price": 200,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5a9570eeee23679961b1"
+  },
+  "name": "Stranger Things",
+  "year": 2016,
+  "type": "series",
+  "genres": [
+    "ciencia ficción",
+    "terror",
+    "drama"
+  ],
+  "description": "Un grupo de amigos se enfrenta a eventos sobrenaturales en su pequeña ciudad.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "duration": {
+      "time": "50 mins",
+      "player": 3000000
+    },
+    "director": "The Duffer Brothers",
+    "country": "EEUU",
+    "languages": {
+      "audio": [
+        "inglés",
+        "español"
+      ],
+      "subtitles": [
+        "inglés",
+        "español"
+      ]
+    },
+    "audio": "Dolby Digital",
+    "casting": [
+      "Winona Ryder",
+      "David Harbour",
+      "Finn Wolfhard"
+    ],
+    "seasons": 4,
+    "episodes": 34,
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 200,
+    "price": 200,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961b2"
+  },
+  "name": "Blood Sugar Sex Magik",
+  "year": 1991,
+  "type": "album",
+  "genres": [
+    "rock",
+    "funk rock"
+  ],
+  "description": "Un álbum icónico de los Red Hot Chili Peppers que mezcla rock y funk.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Red Hot Chili Peppers",
+    "label": "Warner Bros. Records",
+    "duration": {
+      "time": "73 mins",
+      "player": 4380000
+    },
+    "tracks": 17,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Rick Rubin",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961b3"
+  },
+  "name": "Wasting Light",
+  "year": 2011,
+  "type": "album",
+  "genres": [
+    "rock",
+    "alternative rock"
+  ],
+  "description": "Un álbum de estudio de los Foo Fighters, grabado en su totalidad en cinta analógica.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Foo Fighters",
+    "label": "RCA Records",
+    "duration": {
+      "time": "47 mins",
+      "player": 2820000
+    },
+    "tracks": 11,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Butch Vig",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961b4"
+  },
+  "name": "Nevermind",
+  "year": 1991,
+  "type": "album",
+  "genres": [
+    "grunge",
+    "rock"
+  ],
+  "description": "El álbum que catapultó a Nirvana al estrellato, con himnos como 'Smells Like Teen Spirit'.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Nirvana",
+    "label": "DGC Records",
+    "duration": {
+      "time": "42 mins",
+      "player": 2520000
+    },
+    "tracks": 12,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Butch Vig",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961b5"
+  },
+  "name": "Rust in Peace",
+  "year": 1990,
+  "type": "album",
+  "genres": [
+    "thrash metal"
+  ],
+  "description": "Un álbum de culto de Megadeth, conocido por su virtuosismo musical y letras profundas.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Megadeth",
+    "label": "Capitol Records",
+    "duration": {
+      "time": "40 mins",
+      "player": 2400000
+    },
+    "tracks": 9,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Mike Clink",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961b6"
+  },
+  "name": "Master of Puppets",
+  "year": 1986,
+  "type": "album",
+  "genres": [
+    "heavy metal",
+    "thrash metal"
+  ],
+  "description": "Considerado uno de los mejores álbumes de Metallica, con temas como 'Enter Sandman'.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Metallica",
+    "label": "Elektra Records",
+    "duration": {
+      "time": "54 mins",
+      "player": 3240000
+    },
+    "tracks": 8,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Flemming Rasmussen",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961b7"
+  },
+  "name": "The Number of the Beast",
+  "year": 1982,
+  "type": "album",
+  "genres": [
+    "heavy metal"
+  ],
+  "description": "Un álbum fundamental de Iron Maiden que definió el sonido del metal en los años 80.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Iron Maiden",
+    "label": "EMI Records",
+    "duration": {
+      "time": "40 mins",
+      "player": 2400000
+    },
+    "tracks": 8,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Martin Birch",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961b8"
+  },
+  "name": "Paranoid",
+  "year": 1970,
+  "type": "album",
+  "genres": [
+    "heavy metal",
+    "rock"
+  ],
+  "description": "Un álbum icónico de Black Sabbath que ayudó a definir el sonido del heavy metal.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Black Sabbath",
+    "label": "Vertigo Records",
+    "duration": {
+      "time": "42 mins",
+      "player": 2520000
+    },
+    "tracks": 8,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Rodger Bain",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961b9"
+  },
+  "name": "Back in Black",
+  "year": 1980,
+  "type": "album",
+  "genres": [
+    "rock",
+    "hard rock"
+  ],
+  "description": "Uno de los álbumes más vendidos de AC/DC, con el famoso tema del mismo nombre.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "AC/DC",
+    "label": "Atlantic Records",
+    "duration": {
+      "time": "42 mins",
+      "player": 2520000
+    },
+    "tracks": 10,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Robert John \"Mutt\" Lange",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961ba"
+  },
+  "name": "Songs for the Deaf",
+  "year": 2002,
+  "type": "album",
+  "genres": [
+    "rock",
+    "stoner rock"
+  ],
+  "description": "Un álbum innovador de Queens of the Stone Age que incorpora elementos de rock alternativo y psicodélico.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Queens of the Stone Age",
+    "label": "Interscope Records",
+    "duration": {
+      "time": "48 mins",
+      "player": 2880000
+    },
+    "tracks": 14,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Josh Homme, Adam Kasper",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa070eeee23679961bb"
+  },
+  "name": "Deep Purple in Rock",
+  "year": 1970,
+  "type": "album",
+  "genres": [
+    "rock",
+    "hard rock"
+  ],
+  "description": "Un álbum fundamental que ayudó a establecer el sonido de Deep Purple en la historia del rock.",
+  "images": {
+    "thumbnail": "",
+    "medium": "",
+    "large": "",
+    "poster": ""
+  },
+  "info": {
+    "artist": "Deep Purple",
+    "label": "Harvest Records",
+    "duration": {
+      "time": "40 mins",
+      "player": 2400000
+    },
+    "tracks": 7,
+    "languages": [
+      "inglés"
+    ],
+    "producer": "Deep Purple, Nick Simper",
+    "soundtrack": []
+  },
+  "rent": {
+    "stock": 100,
+    "price": 15,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961bc"
+  },
+  "year": 1872,
+  "type": "libro",
+  "genres": [
+    "poesía épica",
+    "literatura argentina"
+  ],
+  "description": "Una obra emblemática de la literatura argentina que narra la vida de un gaucho en la pampa.",
+  "info": {
+    "author": "José Hernández",
+    "publisher": "Varios",
+    "language": "español"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "Martín Fierro"
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961bd"
+  },
+  "year": 1987,
+  "type": "libro",
+  "genres": [
+    "autoayuda",
+    "literatura infantil"
+  ],
+  "description": "Una fábula sobre el autodescubrimiento y la superación personal.",
+  "info": {
+    "author": "Robert Fisher",
+    "publisher": "Varios",
+    "language": "español"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "El caballero de la armadura oxidada"
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961be"
+  },
+  "year": 2009,
+  "type": "libro",
+  "genres": [
+    "novela",
+    "literatura argentina"
+  ],
+  "description": "Una novela que explora la vida en las calles de Buenos Aires.",
+  "info": {
+    "author": "Julián López",
+    "publisher": "Anagrama",
+    "language": "español"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "Ni el tiro del final"
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961bf"
+  },
+  "year": 1950,
+  "type": "libro",
+  "genres": [
+    "ciencia ficción",
+    "literatura estadounidense"
+  ],
+  "description": "Una colección de relatos sobre la colonización de Marte.",
+  "info": {
+    "author": "Ray Bradbury",
+    "publisher": "Doubleday",
+    "language": "inglés"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "Crónicas marcianas"
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961c0"
+  },
+  "year": 1977,
+  "type": "libro",
+  "genres": [
+    "terror",
+    "literatura estadounidense"
+  ],
+  "description": "Una novela de terror psicológico sobre un escritor y su familia atrapados en un hotel.",
+  "info": {
+    "author": "Stephen King",
+    "publisher": "Doubleday",
+    "language": "inglés"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "El resplandor"
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961c1"
+  },
+  "year": 1986,
+  "type": "libro",
+  "genres": [
+    "terror",
+    "literatura estadounidense"
+  ],
+  "description": "Una novela sobre un grupo de niños que enfrentan a un ser maligno que toma la forma de un payaso.",
+  "info": {
+    "author": "Stephen King",
+    "publisher": "Viking Penguin",
+    "language": "inglés"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "It"
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961c2"
+  },
+  "year": 1938,
+  "type": "libro",
+  "genres": [
+    "ciencia ficción",
+    "literatura estadounidense"
+  ],
+  "description": "Una novela sobre una criatura extraterrestre en la Antártida.",
+  "info": {
+    "author": "John W. Campbell Jr.",
+    "publisher": "Astounding Science Fiction",
+    "language": "inglés"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "La cosa"
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961c3"
+  },
+  "year": 1605,
+  "type": "libro",
+  "genres": [
+    "novela",
+    "literatura española"
+  ],
+  "description": "La famosa novela de Miguel de Cervantes que narra las aventuras de un hidalgo.",
+  "info": {
+    "author": "Miguel de Cervantes",
+    "publisher": "Varios",
+    "language": "español"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "El Quijote de la Mancha"
+},
+{
+  "_id": {
+    "$oid": "670d5aa670eeee23679961c4"
+  },
+  "year": 1945,
+  "type": "libro",
+  "genres": [
+    "sátira",
+    "literatura inglesa"
+  ],
+  "description": "Una alegoría política sobre la revolución y el totalitarismo.",
+  "info": {
+    "author": "George Orwell",
+    "publisher": "Secker and Warburg",
+    "language": "inglés"
+  },
+  "rent": {
+    "stock": 100,
+    "price": 10,
+    "type": [
+      "alquiler"
+    ],
+    "users": [
+      "Samantha",
+      "Kamren",
+      "Delphine"
+    ]
+  },
+  "name": "Rebelión en la granja"
+}]
