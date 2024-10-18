@@ -43,8 +43,8 @@ db.createCollection("branches", {
                             minLength: 4,
                         },
                         zipcode: {
-                            bsonType: "string",
-                            pattern: "^[A-Za-z0-9\\s-]{2,6}$",
+                            bsonType: ["string","number"],
+                            pattern: "^[A-Za-z0-9\\s-]{2,10}$",
                         },
                         geolocation: {
                             bsonType: "object",
@@ -78,12 +78,12 @@ db.createCollection("branches", {
                                     first_name: {
                                         bsonType: "string",
                                         minLength: 2,
-                                        pattern: "^\D+$"
+                                        pattern: "^\\D+$"
                                     },
                                     last_name: {
                                         bsonType: "string",
                                         minLength: 2,
-                                        pattern: "^\D+$"
+                                        pattern: "^\\D+$"
                                     },
                                     birthdate: {
                                         bsonType: "date",
@@ -142,7 +142,7 @@ db.createCollection("branches", {
                                                 bsonType: "date"
                                             },
                                             end: {
-                                                bsonType: "date"
+                                                bsonType: ["date","null"]
                                             }
                                         }
                                     }
@@ -161,3 +161,4 @@ db.branches.createIndex({
     "address.number": 1, 
     "address.zipcode": 1
 });
+db.branches.createIndex({ "address.geolocation": "2dsphere" })
