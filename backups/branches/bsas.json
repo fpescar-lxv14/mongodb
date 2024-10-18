@@ -1,0 +1,407 @@
+[
+    {
+        "name": "Sucursal Lomas",
+        "address": {
+            "street": "Avenida Hipolito Yrigoyen",
+            "number": 123,
+            "zipcode": "1832",
+            "city": "Lomas de Zamora",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.7495,
+                "longitude": -58.4133
+            }
+        },
+        "manager": "Juan Perez",
+        "employees": [
+            {
+                "charge": "Gerente",
+                "employeeData": {
+                    "first_name": "Carlos",
+                    "last_name": "Fernandez",
+                    "birthdate": {
+                        "$date": "1985-05-15"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "12345678",
+                    "degree": "UNI"
+                },
+                "hiredAt": {
+                    "$date": "2015-03-01"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2015-03-01"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Banfield",
+        "address": {
+            "street": "Avenida Alsina",
+            "number": 456,
+            "zipcode": "1828",
+            "city": "Banfield",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.7465,
+                "longitude": -58.4055
+            }
+        },
+        "manager": "Ana Lopez",
+        "employees": [
+            {
+                "charge": "Vendedor",
+                "employeeData": {
+                    "first_name": "Pedro",
+                    "last_name": "Gonzalez",
+                    "birthdate": {
+                        "$date": "1990-08-20"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "87654321",
+                    "degree": "SEC"
+                },
+                "hiredAt": {
+                    "$date": "2020-06-15"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2020-06-15"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Lanus",
+        "address": {
+            "street": "Avenida 25 de Mayo",
+            "number": 789,
+            "zipcode": "1824",
+            "city": "Lanus",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.7061,
+                "longitude": -58.4000
+            }
+        },
+        "manager": "Lucia Martinez",
+        "employees": [
+            {
+                "charge": "Encargado",
+                "employeeData": {
+                    "first_name": "Maria",
+                    "last_name": "Lopez",
+                    "birthdate": {
+                        "$date": "1988-04-10"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "23456789",
+                    "degree": "TER"
+                },
+                "hiredAt": {
+                    "$date": "2018-01-12"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2018-01-12"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Glew",
+        "address": {
+            "street": "Avenida Juan XXIII",
+            "number": 12,
+            "zipcode": "1845",
+            "city": "Glew",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.8167,
+                "longitude": -58.4139
+            }
+        },
+        "manager": "Roberto Diaz",
+        "employees": [
+            {
+                "charge": "Asistente",
+                "employeeData": {
+                    "first_name": "Sofia",
+                    "last_name": "Ramirez",
+                    "birthdate": {
+                        "$date": "1992-11-05"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "34567890",
+                    "degree": "SEC"
+                },
+                "hiredAt": {
+                    "$date": "2021-02-01"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2021-02-01"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Burzaco",
+        "address": {
+            "street": "Calle San Martin",
+            "number": 34,
+            "zipcode": "1846",
+            "city": "Burzaco",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.7871,
+                "longitude": -58.3911
+            }
+        },
+        "manager": "Martin Fernandez",
+        "employees": [
+            {
+                "charge": "Cajero",
+                "employeeData": {
+                    "first_name": "Lucas",
+                    "last_name": "Torres",
+                    "birthdate": {
+                        "$date": "1995-03-20"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "45678901",
+                    "degree": "SEC"
+                },
+                "hiredAt": {
+                    "$date": "2022-04-10"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2022-04-10"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Adrogue",
+        "address": {
+            "street": "Calle Almirante Brown",
+            "number": 55,
+            "zipcode": "1846",
+            "city": "Adrogue",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.8354,
+                "longitude": -58.4166
+            }
+        },
+        "manager": "Clara Nuñez",
+        "employees": [
+            {
+                "charge": "Supervisor",
+                "employeeData": {
+                    "first_name": "Esteban",
+                    "last_name": "Perez",
+                    "birthdate": {
+                        "$date": "1980-12-25"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "56789012",
+                    "degree": "UNI"
+                },
+                "hiredAt": {
+                    "$date": "2016-07-14"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2016-07-14"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Moron",
+        "address": {
+            "street": "Avenida Rivadavia",
+            "number": 101,
+            "zipcode": "1708",
+            "city": "Moron",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.6450,
+                "longitude": -58.6100
+            }
+        },
+        "manager": "Sergio Romero",
+        "employees": [
+            {
+                "charge": "Gerente",
+                "employeeData": {
+                    "first_name": "Gabriela",
+                    "last_name": "Martin",
+                    "birthdate": {
+                        "$date": "1983-09-15"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "67890123",
+                    "degree": "DOC"
+                },
+                "hiredAt": {
+                    "$date": "2014-05-20"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2014-05-20"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Ituzaingo",
+        "address": {
+            "street": "Calle Martin Fierro",
+            "number": 22,
+            "zipcode": "1714",
+            "city": "Ituzaingo",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.6220,
+                "longitude": -58.6200
+            }
+        },
+        "manager": "Nicolas Aguirre",
+        "employees": [
+            {
+                "charge": "Vendedor",
+                "employeeData": {
+                    "first_name": "Mariana",
+                    "last_name": "Garcia",
+                    "birthdate": {
+                        "$date": "1990-02-10"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "78901234",
+                    "degree": "SEC"
+                },
+                "hiredAt": {
+                    "$date": "2019-08-01"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2019-08-01"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sucursal Tigre",
+        "address": {
+            "street": "Calle Sarmiento",
+            "number": 100,
+            "zipcode": "1648",
+            "city": "Tigre",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "geolocation": {
+                "latitude": -34.4467,
+                "longitude": -58.5980
+            }
+        },
+        "manager": "Silvia Castro",
+        "employees": [
+            {
+                "charge": "Cajero",
+                "employeeData": {
+                    "first_name": "Rafael",
+                    "last_name": "Hernandez",
+                    "birthdate": {
+                        "$date": "1993-07-30"
+                    },
+                    "id_type": "DNI",
+                    "id_number": "89012345",
+                    "degree": "PRI"
+                },
+                "hiredAt": {
+                    "$date": "2021-05-25"
+                },
+                "active": true,
+                "status": {
+                    "type": "ALTA",
+                    "details": "Empleado activo",
+                    "time": {
+                        "start": {
+                            "$date": "2021-05-25"
+                        },
+                        "end": null
+                    }
+                }
+            }
+        ]
+    }
+]
