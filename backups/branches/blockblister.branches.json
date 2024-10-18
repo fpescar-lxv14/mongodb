@@ -1,0 +1,959 @@
+[{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d26c"
+  },
+  "name": "Sucursal Lomas",
+  "address": {
+    "street": "Avenida Hipolito Yrigoyen",
+    "number": 123,
+    "zipcode": "1832",
+    "city": "Lomas de Zamora",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.7495,
+      "longitude": -58.4133
+    }
+  },
+  "manager": "Juan Perez",
+  "employees": [
+    {
+      "charge": "Gerente",
+      "employeeData": {
+        "first_name": "Carlos",
+        "last_name": "Fernandez",
+        "birthdate": {
+          "$date": "1985-05-15T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "12345678",
+        "degree": "UNI"
+      },
+      "hiredAt": {
+        "$date": "2015-03-01T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2015-03-01T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d26d"
+  },
+  "name": "Sucursal Banfield",
+  "address": {
+    "street": "Avenida Alsina",
+    "number": 456,
+    "zipcode": "1828",
+    "city": "Banfield",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.7465,
+      "longitude": -58.4055
+    }
+  },
+  "manager": "Ana Lopez",
+  "employees": [
+    {
+      "charge": "Vendedor",
+      "employeeData": {
+        "first_name": "Pedro",
+        "last_name": "Gonzalez",
+        "birthdate": {
+          "$date": "1990-08-20T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "87654321",
+        "degree": "SEC"
+      },
+      "hiredAt": {
+        "$date": "2020-06-15T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2020-06-15T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d26e"
+  },
+  "name": "Sucursal Lanus",
+  "address": {
+    "street": "Avenida 25 de Mayo",
+    "number": 789,
+    "zipcode": "1824",
+    "city": "Lanus",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.7061,
+      "longitude": -58.4
+    }
+  },
+  "manager": "Lucia Martinez",
+  "employees": [
+    {
+      "charge": "Encargado",
+      "employeeData": {
+        "first_name": "Maria",
+        "last_name": "Lopez",
+        "birthdate": {
+          "$date": "1988-04-10T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "23456789",
+        "degree": "TER"
+      },
+      "hiredAt": {
+        "$date": "2018-01-12T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2018-01-12T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d26f"
+  },
+  "name": "Sucursal Glew",
+  "address": {
+    "street": "Avenida Juan XXIII",
+    "number": 12,
+    "zipcode": "1845",
+    "city": "Glew",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.8167,
+      "longitude": -58.4139
+    }
+  },
+  "manager": "Roberto Diaz",
+  "employees": [
+    {
+      "charge": "Asistente",
+      "employeeData": {
+        "first_name": "Sofia",
+        "last_name": "Ramirez",
+        "birthdate": {
+          "$date": "1992-11-05T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "34567890",
+        "degree": "SEC"
+      },
+      "hiredAt": {
+        "$date": "2021-02-01T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2021-02-01T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d270"
+  },
+  "name": "Sucursal Burzaco",
+  "address": {
+    "street": "Calle San Martin",
+    "number": 34,
+    "zipcode": "1846",
+    "city": "Burzaco",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.7871,
+      "longitude": -58.3911
+    }
+  },
+  "manager": "Martin Fernandez",
+  "employees": [
+    {
+      "charge": "Cajero",
+      "employeeData": {
+        "first_name": "Lucas",
+        "last_name": "Torres",
+        "birthdate": {
+          "$date": "1995-03-20T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "45678901",
+        "degree": "SEC"
+      },
+      "hiredAt": {
+        "$date": "2022-04-10T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2022-04-10T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d271"
+  },
+  "name": "Sucursal Adrogue",
+  "address": {
+    "street": "Calle Almirante Brown",
+    "number": 55,
+    "zipcode": "1846",
+    "city": "Adrogue",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.8354,
+      "longitude": -58.4166
+    }
+  },
+  "manager": "Clara Nuñez",
+  "employees": [
+    {
+      "charge": "Supervisor",
+      "employeeData": {
+        "first_name": "Esteban",
+        "last_name": "Perez",
+        "birthdate": {
+          "$date": "1980-12-25T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "56789012",
+        "degree": "UNI"
+      },
+      "hiredAt": {
+        "$date": "2016-07-14T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2016-07-14T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d272"
+  },
+  "name": "Sucursal Moron",
+  "address": {
+    "street": "Avenida Rivadavia",
+    "number": 101,
+    "zipcode": "1708",
+    "city": "Moron",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.645,
+      "longitude": -58.61
+    }
+  },
+  "manager": "Sergio Romero",
+  "employees": [
+    {
+      "charge": "Gerente",
+      "employeeData": {
+        "first_name": "Gabriela",
+        "last_name": "Martin",
+        "birthdate": {
+          "$date": "1983-09-15T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "67890123",
+        "degree": "DOC"
+      },
+      "hiredAt": {
+        "$date": "2014-05-20T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2014-05-20T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d273"
+  },
+  "name": "Sucursal Ituzaingo",
+  "address": {
+    "street": "Calle Martin Fierro",
+    "number": 22,
+    "zipcode": "1714",
+    "city": "Ituzaingo",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.622,
+      "longitude": -58.62
+    }
+  },
+  "manager": "Nicolas Aguirre",
+  "employees": [
+    {
+      "charge": "Vendedor",
+      "employeeData": {
+        "first_name": "Mariana",
+        "last_name": "Garcia",
+        "birthdate": {
+          "$date": "1990-02-10T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "78901234",
+        "degree": "SEC"
+      },
+      "hiredAt": {
+        "$date": "2019-08-01T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2019-08-01T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67129f68b52ab4c4c179d274"
+  },
+  "name": "Sucursal Tigre",
+  "address": {
+    "street": "Calle Sarmiento",
+    "number": 100,
+    "zipcode": "1648",
+    "city": "Tigre",
+    "state": "Buenos Aires",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -34.4467,
+      "longitude": -58.598
+    }
+  },
+  "manager": "Silvia Castro",
+  "employees": [
+    {
+      "charge": "Cajero",
+      "employeeData": {
+        "first_name": "Rafael",
+        "last_name": "Hernandez",
+        "birthdate": {
+          "$date": "1993-07-30T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "89012345",
+        "degree": "PRI"
+      },
+      "hiredAt": {
+        "$date": "2021-05-25T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2021-05-25T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a139b52ab4c4c179d275"
+  },
+  "name": "Sucursal Cordoba",
+  "address": {
+    "street": "Calle San Martin",
+    "number": 100,
+    "zipcode": "5000",
+    "city": "Cordoba",
+    "state": "Cordoba",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -31.4201,
+      "longitude": -64.1888
+    }
+  },
+  "manager": "Laura Fernandez",
+  "employees": [
+    {
+      "charge": "Gerente",
+      "employeeData": {
+        "first_name": "Javier",
+        "last_name": "Alvarez",
+        "birthdate": {
+          "$date": "1982-02-12T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "123456789",
+        "degree": "UNI"
+      },
+      "hiredAt": {
+        "$date": "2017-03-15T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2017-03-15T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a139b52ab4c4c179d276"
+  },
+  "name": "Sucursal Salta",
+  "address": {
+    "street": "Avenida Sarmiento",
+    "number": 250,
+    "zipcode": "4400",
+    "city": "Salta",
+    "state": "Salta",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -24.7823,
+      "longitude": -65.423
+    }
+  },
+  "manager": "Ricardo Perez",
+  "employees": [
+    {
+      "charge": "Vendedor",
+      "employeeData": {
+        "first_name": "Ana",
+        "last_name": "Jimenez",
+        "birthdate": {
+          "$date": "1990-06-18T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "987654321",
+        "degree": "SEC"
+      },
+      "hiredAt": {
+        "$date": "2019-07-10T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2019-07-10T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a139b52ab4c4c179d277"
+  },
+  "name": "Sucursal Corrientes",
+  "address": {
+    "street": "Calle 25 de Mayo",
+    "number": 500,
+    "zipcode": "3400",
+    "city": "Corrientes",
+    "state": "Corrientes",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -27.4805,
+      "longitude": -58.8348
+    }
+  },
+  "manager": "Valeria Gomez",
+  "employees": [
+    {
+      "charge": "Encargado",
+      "employeeData": {
+        "first_name": "Santiago",
+        "last_name": "Cruz",
+        "birthdate": {
+          "$date": "1985-10-22T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "54321678",
+        "degree": "TER"
+      },
+      "hiredAt": {
+        "$date": "2020-05-30T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2020-05-30T00:00:00.000Z"
+          }
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a139b52ab4c4c179d278"
+  },
+  "name": "Sucursal Misiones",
+  "address": {
+    "street": "Calle Belgrano",
+    "number": 40,
+    "zipcode": "3300",
+    "city": "Posadas",
+    "state": "Misiones",
+    "country": "Argentina",
+    "geolocation": {
+      "latitude": -26.9534,
+      "longitude": -54.5764
+    }
+  },
+  "manager": "Claudio Martinez",
+  "employees": [
+    {
+      "charge": "Cajero",
+      "employeeData": {
+        "first_name": "Florencia",
+        "last_name": "Lopez",
+        "birthdate": {
+          "$date": "1993-04-12T00:00:00.000Z"
+        },
+        "id_type": "DNI",
+        "id_number": "32165487",
+        "degree": "PRI"
+      },
+      "hiredAt": {
+        "$date": "2021-01-15T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2021-01-15T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a1e8b52ab4c4c179d279"
+  },
+  "name": "Sucursal Mexico",
+  "address": {
+    "street": "Calle Reforma",
+    "number": 200,
+    "zipcode": "06060",
+    "city": "Ciudad de Mexico",
+    "state": "CDMX",
+    "country": "Mexico",
+    "geolocation": {
+      "latitude": 19.4326,
+      "longitude": -99.1332
+    }
+  },
+  "manager": "Alejandro Torres",
+  "employees": [
+    {
+      "charge": "Gerente",
+      "employeeData": {
+        "first_name": "Gabriela",
+        "last_name": "Sanchez",
+        "birthdate": {
+          "$date": "1981-12-05T00:00:00.000Z"
+        },
+        "id_type": "PASS",
+        "id_number": "A12345678",
+        "degree": "UNI"
+      },
+      "hiredAt": {
+        "$date": "2016-08-15T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2016-08-15T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a1e8b52ab4c4c179d27a"
+  },
+  "name": "Sucursal España",
+  "address": {
+    "street": "Calle Gran Via",
+    "number": 100,
+    "zipcode": "28013",
+    "city": "Madrid",
+    "state": "Madrid",
+    "country": "España",
+    "geolocation": {
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    }
+  },
+  "manager": "Fernando Ruiz",
+  "employees": [
+    {
+      "charge": "Vendedor",
+      "employeeData": {
+        "first_name": "Isabel",
+        "last_name": "Ramirez",
+        "birthdate": {
+          "$date": "1990-07-30T00:00:00.000Z"
+        },
+        "id_type": "PASS",
+        "id_number": "B98765432",
+        "degree": "SEC"
+      },
+      "hiredAt": {
+        "$date": "2020-11-01T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2020-11-01T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a1e8b52ab4c4c179d27b"
+  },
+  "name": "Sucursal California",
+  "address": {
+    "street": "Calle Market",
+    "number": 1500,
+    "zipcode": "94103",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "EE. UU.",
+    "geolocation": {
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    }
+  },
+  "manager": "Jessica White",
+  "employees": [
+    {
+      "charge": "Asistente",
+      "employeeData": {
+        "first_name": "Brian",
+        "last_name": "Johnson",
+        "birthdate": {
+          "$date": "1995-05-15T00:00:00.000Z"
+        },
+        "id_type": "PASS",
+        "id_number": "C23456789",
+        "degree": "TER"
+      },
+      "hiredAt": {
+        "$date": "2019-04-20T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2019-04-20T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a1e8b52ab4c4c179d27c"
+  },
+  "name": "Sucursal Alemania",
+  "address": {
+    "street": "Berliner Str.",
+    "number": 50,
+    "zipcode": "10115",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "Alemania",
+    "geolocation": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "manager": "Karl Schmidt",
+  "employees": [
+    {
+      "charge": "Gerente",
+      "employeeData": {
+        "first_name": "Anna",
+        "last_name": "Müller",
+        "birthdate": {
+          "$date": "1989-03-22T00:00:00.000Z"
+        },
+        "id_type": "PASS",
+        "id_number": "D1234567",
+        "degree": "UNI"
+      },
+      "hiredAt": {
+        "$date": "2015-09-10T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2015-09-10T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a1e8b52ab4c4c179d27f"
+  },
+  "name": "Sucursal Corea del Sur",
+  "address": {
+    "street": "Gangnam",
+    "number": 100,
+    "zipcode": "06100",
+    "city": "Seul",
+    "state": "Seul",
+    "country": "Corea del Sur",
+    "geolocation": {
+      "latitude": 37.4979,
+      "longitude": 127.0276
+    }
+  },
+  "manager": "Min-Jun Lee",
+  "employees": [
+    {
+      "charge": "Cajero",
+      "employeeData": {
+        "first_name": "Soo-Yeon",
+        "last_name": "Kim",
+        "birthdate": {
+          "$date": "1995-11-28T00:00:00.000Z"
+        },
+        "id_type": "PASS",
+        "id_number": "K9876543",
+        "degree": "PRI"
+      },
+      "hiredAt": {
+        "$date": "2021-01-15T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2021-01-15T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a1e8b52ab4c4c179d280"
+  },
+  "name": "Sucursal Egipto",
+  "address": {
+    "street": "Calle El-Mohandessin",
+    "number": 80,
+    "zipcode": "12311",
+    "city": "El Cairo",
+    "state": "El Cairo",
+    "country": "Egipto",
+    "geolocation": {
+      "latitude": 30.0444,
+      "longitude": 31.2357
+    }
+  },
+  "manager": "Sara Ali",
+  "employees": [
+    {
+      "charge": "Gerente",
+      "employeeData": {
+        "first_name": "Mohamed",
+        "last_name": "Hassan",
+        "birthdate": {
+          "$date": "1986-05-14T00:00:00.000Z"
+        },
+        "id_type": "PASS",
+        "id_number": "E12345678",
+        "degree": "UNI"
+      },
+      "hiredAt": {
+        "$date": "2017-03-01T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2017-03-01T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6712a5def5566bc0a88a9168"
+  },
+  "name": "Sucursal Portugal",
+  "address": {
+    "street": "Avenida da Liberdade",
+    "number": 45,
+    "zipcode": "2508C",
+    "city": "Lisboa",
+    "state": "Lisboa",
+    "country": "Portugal",
+    "geolocation": {
+      "latitude": 38.7223,
+      "longitude": -9.1393
+    }
+  },
+  "manager": "Miguel Costa",
+  "employees": [
+    {
+      "charge": "Vendedor",
+      "employeeData": {
+        "first_name": "Sofia",
+        "last_name": "Silva",
+        "birthdate": {
+          "$date": "1992-08-10T00:00:00.000Z"
+        },
+        "id_type": "PASS",
+        "id_number": "P98765432",
+        "degree": "SEC"
+      },
+      "hiredAt": {
+        "$date": "2020-06-12T00:00:00.000Z"
+      },
+      "active": true,
+      "status": {
+        "type": "ALTA",
+        "details": "Empleado activo",
+        "time": {
+          "start": {
+            "$date": "2020-06-12T00:00:00.000Z"
+          },
+          "end": null
+        }
+      }
+    }
+  ]
+}]
